@@ -1,0 +1,8 @@
+click
+langdetect
+nltk
+numpy
+pandas
+pyspellchecker
+spacy
+tqdm
